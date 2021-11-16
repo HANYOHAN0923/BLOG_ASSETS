@@ -1,0 +1,9 @@
+제 3 강 변수 및 자료형 (참고: https://wikidocs.net/206) & 따옴표 차이 (참고: https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=104&docId=396241629&scrollTo=answer1, https://dabok407.tistory.com/15)
+
+제 4 강 상수 및 형변환
+
+도스 명령어 모음 집
+
+everywhere 찾는 툴
+
+
